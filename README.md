@@ -41,10 +41,13 @@ Bash python nome do seu arquivo.py
 Entrada:
 
 ID: 101
-Peso: 100g
-Cor: Azul
-Comprimento: 15cm
-Saída Esperada:
 
+Peso: 100g
+
+Cor: Azul
+
+Comprimento: 15cm
+
+Saída Esperada:
 Peca Aprovada!
 (A peça é adicionada à contagem da caixa atual).
