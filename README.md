@@ -35,8 +35,7 @@ Passo a Passo:
 1. Faça o download do ficheiro .py deste repositório.
 2. Abra o terminal ou a linha de comandos.
 3. Navegue até à pasta onde guardou o ficheiro.
-Execute o comando:
-Python sistema-de-gestao-de-pecas.py
+4. Execute o comando:  Python sistema-de-gestao-de-pecas.py
 
 📝 Exemplo de Uso
 
