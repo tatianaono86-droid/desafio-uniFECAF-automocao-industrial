@@ -34,20 +34,15 @@ Passo a Passo:
 2. Abra o terminal ou a linha de comandos.
 3. Navegue até à pasta onde guardou o ficheiro.
 Execute o comando:
-Bash python nome do seu arquivo.py
+Python sistema-de-gestao-de-pecas.py
 
 📝 Exemplo de Uso
 
 Entrada:
-
 ID: 101
-
 Peso: 100g
-
 Cor: Azul
-
 Comprimento: 15cm
-
 Saída Esperada:
-Peca Aprovada!
+Peça Aprovada!
 (A peça é adicionada à contagem da caixa atual).
