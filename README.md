@@ -13,7 +13,9 @@ Critérios de Qualidade (Regras de Negócio):
 Para ser aprovada, a peça deve cumprir todos os requisitos:
 
 Peso: Entre 95g e 105g.
+
 Cor: Azul ou Verde.
+
 Comprimento: Entre 10cm e 20cm.
 
 🛠 Funcionalidades
@@ -40,9 +42,14 @@ Python sistema-de-gestao-de-pecas.py
 
 Entrada:
 ID: 101
+
 Peso: 100g
+
 Cor: Azul
+
 Comprimento: 15cm
+
 Saída Esperada:
 Peça Aprovada!
+
 (A peça é adicionada à contagem da caixa atual).
