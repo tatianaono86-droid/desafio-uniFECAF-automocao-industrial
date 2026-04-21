@@ -86,7 +86,7 @@ def relatorio():
     aprovadas = [p for p in pecas if p['status'] == 'Aprovada']
     reprovadas = [p for p in pecas if p['status'] == 'Reprovada']
     
-    print('\n==== RELATEORIO ====')
+    print('\n==== RELATÓRIO ====')
     print(f'aprovadas: {len(aprovadas)}')
     print(f'Reprovadas: {len(reprovadas)}')
     print(f'Caixas utilizadas: {len(caixas)}')
